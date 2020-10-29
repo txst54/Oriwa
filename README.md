@@ -2,9 +2,9 @@
 Image to Crease Pattern  
 Pipeline:  
 1. Import Image (done)  
-2. Segment Square (in progress)  
-3. Preprocessing  
-4. Segment Grid  
+2. Segment Square (done)  
+3. Preprocessing (done)  
+4. Segment Grid (in progress)  
 5. Detect if each grid has line  
 6. Classify M/V line(s)  
 7. Identify coordinates (CNN?)  
